@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe answer to a booke called The declaration of the kingdomes of England and Scotland. Sent in a letter from a Member of the House of Commons.</title>
+            <author>Member of the House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77402</idno>
+            <idno type="STC">Wing B4539</idno>
+            <idno type="STC">Thomason E46_2</idno>
+            <idno type="STC">ESTC R4220</idno>
+            <idno type="EEBO-CITATION">99872625</idno>
+            <idno type="PROQUEST">99872625</idno>
+            <idno type="VID">154490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E46[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe answer to a booke called The declaration of the kingdomes of England and Scotland. Sent in a letter from a Member of the House of Commons.</title>
+                  <author>Member of the House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>An. Dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154490:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:154490:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>A BRIEFE ANSWER <hi>TO A BOOKE CALLED</hi> THE DECLARATION OF THE KINGDOMES of ENGLAND and SCOTLAND.</p>
+            <p>Sent in a Letter from a Member of the Houſe of <hi>COMMONS.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. Hall.</hi> An.Dom. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154490:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:154490:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>A Briefe Anſwer to a Booke called <hi>[The Declaration of the Kingdomes of England and Scotland.]</hi>
+            </head>
+            <head type="sub">Sent in a Letter from a Member of the Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have looked over the Booke you ſent me, intitled, <hi>[The Declaration of the Kingdomes of England and Scotland, &amp;c.]</hi> And ſend you what occurred into my mind upon rea<g ref="char:EOLhyphen"/>ding the orders of theſe new States, who give loyalty and allegiance the reward of villany and treaſon, and evidence their ſeeking of truth and peace by condemning the Kingdom to Anarchy, the Church to Schiſme, giving the lives of the Subjects for victims, their eſtates for a prey to lawleſſe rage and rapine: an unlikely way to ſtop or dry up theſe ſtreames of bloud, that have covered this nation with a prodigious inunda<g ref="char:EOLhyphen"/>tion, but a meanes to feed that unnaturall fountaine, that the children unborne may be bathed in bloud, and inherit the miſery of their parents; for it's not imagi<g ref="char:EOLhyphen"/>nable, that the oppreſſing of a lawfull King, diſheriſon of a royall Progeny, to whom the right of a crowne hath beene tranſmitted through a race of ſo many vi<g ref="char:EOLhyphen"/>ctorious Princes, the cheating and diſpoſſeſſing of a glo<g ref="char:EOLhyphen"/>rious nation of their Religion, Lawes and Liberty, can
+<pb n="2" facs="tcp:154490:3"/>
+               <!-- PDF PAGE 33 -->produce other, then perpetuall diviſions, betweene the juſt demands of right by an injured King and people, &amp; the continuall feares and plots of guilty uſurpers to ſe<g ref="char:EOLhyphen"/>cure themſelves, and confirme their ſtolne Soveraignty.</p>
+            <p>If any man doubted heretofore of the intentions of theſe men, this book leaves no place to any, but the will<g ref="char:EOLhyphen"/>full: have any in a blinde confidence perſwaded them<g ref="char:EOLhyphen"/>ſelves that theſe men meant not to take away the King's Rights? the Title of this booke is a Declaration of the Kingdomes, againſt the will of the King. And ſurly who<g ref="char:EOLhyphen"/>ever undertake to binde the whole Kingdome without him, exclude him from being the Head of the King<g ref="char:EOLhyphen"/>dome, that is, a King; and they that exclude him for an houre, may by the ſame reaſon exclude him for ever: and they have by their practice and former Declarati<g ref="char:EOLhyphen"/>ons told us a King conſenting not to what they thinke neceſſary for the Kingdome is to be reputed as a minor, or incapable, and that they may aſſume the royall po<g ref="char:EOLhyphen"/>wer and allow the King no more liberty but ſubmiſſi<g ref="char:EOLhyphen"/>on to their decrees. They claime a power under the name of States, without limitation of time or power, no appeale permitted from them, no poſſibility of addreſ<g ref="char:EOLhyphen"/>ſes for the greateſt injury or injuſtice done by them, and you may now ſee they ſet themſelves in the Throne, and admit the King to no other, then a private condition. Engliſhmen have beene accuſtomed to other language, their ſtile being the King's Kingdome, People, Lawes, Peace, Armes; And I doubt not but they abhorre this Title, as an impudent forgery, which would involve them in a diſloyalty to their King, and expoſe them to the ſcorne of forraigne nations, and ſubject themſelves to uſurpers, to whom they owe not allegiance; and from
+<pb n="3" facs="tcp:154490:3"/>
+               <!-- PDF PAGE 33 -->whom they muſt not expect protection, but the diſſolu<g ref="char:EOLhyphen"/>tion of their Lawes, and an abſolute Tyranny and arbi<g ref="char:EOLhyphen"/>trary government by them, who have broken their truſt and faith with their King and Country.</p>
+            <p>Surely the Commons of <hi>England</hi> gave no power to their Knights and Burgeſſes to depoſe their King, or de<g ref="char:EOLhyphen"/>ſtroy their Lawes; they choſe them for the Kings Coun<g ref="char:EOLhyphen"/>ſell, not for Kings over him and them; to adviſe him, not to treate or adviſe with forraign nations, much leſſe to invite ſtrangers to the bloud and deſolation of the whole Kingdome, which is herein avowed and whereby all men may ſee as themſelves phraſe it, our Religion, Liberty and Lawes, which have ſtood againſt the grea<g ref="char:EOLhyphen"/>teſt aſſaults of forraigne power envying our happineſſe, are oppreſſed and troden under foot by the craft and cruelty of our owne neighbours and Countrymen.</p>
+            <p>I wonder our brethren the Scots are ſo ſoone weary of that amiable title and their owne peace, and not one<g ref="char:EOLhyphen"/>ly as <hi>Ameleck,</hi> whoſe name God threatned to blot out from under heaven, that ſell upon his weary brethren, &amp; cut off the hindmoſt of them, but rake in the wounds of their languiſhing brethren, and adde ſmart and death to their hurts: and they would perſwade us that their oppreſſions of us are out of affection to us, and for our liberty, their diſtreſſing the King, for his honour and ſafety; and we may beleeve them in that, aſwell as the lawfullneſſe to unite themſelves in this warre without their King, in whom they are united with this nation, without conſent of their owne Parliament, without which it's treaſon and a breach of the Act of Pacificati<g ref="char:EOLhyphen"/>on, ſo ſolemnely vowed by them to be kept, as if they would tell the world no lawes, loyalty, oathes, or duty
+<pb n="4" facs="tcp:154490:4"/>
+               <!-- PDF PAGE 34 -->can hold them longer, then it ſtands with their advan<g ref="char:EOLhyphen"/>tage.</p>
+            <p>And for their taking up armes, for which they bring neither law, Soveraigne command, nor former practice of any but Traytors, never were any borne more oppo<g ref="char:EOLhyphen"/>ſite to our duty to God, Scandalous to our Chriſtian Profeſſion, more unnaturall to our native Country, more diſhonourable to His Majeſtie, more offenſive to God, more injurious to men. Then theſe that fight againſt all whom the King commands to come to His defence, or that aſſiſt him, under the name of a Popiſh, Prelaticall, and malignant party: it's treaſon without contradiction to aſſault the King in any pretence; and can. He be killed by His Subjects through the ſides of others, or aſſaulted in the head of an Army? ſurely <hi>vaſtantia peccata,</hi> ſinnes that lay waſt the conſcience, corrupt the judgement, and deface all ſhame and modeſty, and where men have caſt off loyalty and falſified their oathes, they grow bold with God, and pretend feares and dangers they never beleeved, Honour to His Majeſties Perſon they purſue and reproach, preſervation of His Rights they take Armes to deſtroy.</p>
+            <p>The ſucceſſe of their many Petitions, Declarations, and Remonſtrances, hath beene ſutable to the merits of them, and have very well ſerved to informe the people how much they were deceived, if they expected peace and unity from them, that would ſever the Body from the head in the ſtate, ſet up Schiſmatikes to alter the do<g ref="char:EOLhyphen"/>ctrine and diſcipline of the Church, confederate them<g ref="char:EOLhyphen"/>ſelves with Strangers, impoſe Religion and Law upon King and People, and authorize murder, theft, as war<g ref="char:EOLhyphen"/>ranted by law and conſcience, as thoſe barbarous nati<g ref="char:EOLhyphen"/>ons
+<pb n="5" facs="tcp:154490:4"/>
+               <!-- PDF PAGE 34 -->that enacted the moſt odious oppreſſions for Hero<g ref="char:EOLhyphen"/>icke vertues.</p>
+            <p>This preſſing and patheticke Declaration, which they ſay they are put to, wanting truth and right, cannot with adulterate language, legitimate ſuch horrid crimes, win credit to ſuch incredible untruths, nor conſent to ſuch unnaturall courſes, which would rather have the Sub<g ref="char:EOLhyphen"/>jects of <hi>England</hi> drench themſelves in each others bloud, that the worſt of miſeries a civill warre, be per<g ref="char:EOLhyphen"/>petuated upon the Kingdome to it's finall deſtruction, which muſt inevitably follow; then that their poſitions be not received, the Church deſtroyed, the Lawes ſub<g ref="char:EOLhyphen"/>verted, and all men enter into a new Covenant, againſt Religion, Law, and Loyalty; and this they call truth, without which they defie peace till there be no man left to enjoy it.</p>
+            <p>The ſumme of this Declaration is a denunciation of warre againſt all that enter not into this new Covenant, and which they ſay God would never have put into their hearts, if he had meant to deſtroy them. It ſeemes they ſhake hands with their brethren the Anabaptiſts, in re<g ref="char:EOLhyphen"/>lying on their fanaticke enthuſiaſmes. True Chriſtian humility is farre from theſe preſumptions, and guides it's wayes by the light of Holy Scripture, trying the ſpi<g ref="char:EOLhyphen"/>rits whether they be of God, or no, and truſting not theſe injections, which the Prince of darkeneſſe caſts in<g ref="char:EOLhyphen"/>to unſtable mindes; it were ſtrange preſumption to pre<g ref="char:EOLhyphen"/>tend particular divine inſpirations to any Politicke though juſt Conſtitutions, but to thoſe that are againſt duty to God and his Vicegerent, can have no other eſti<g ref="char:EOLhyphen"/>mation then of grand impoſture, ſacrilegious uſurpation and prophanation of the name of God, who is thereby
+<pb n="6" facs="tcp:154490:5"/>
+               <!-- PDF PAGE 35 -->endeavoured to be made patron of ſuch works of dark<g ref="char:EOLhyphen"/>neſſe. The ends of <hi>Lopez, Faux,</hi> and other aſſaſſinats might ſtrike men with horror when they goe about to intitle God with auſpications ſo oppoſite to his truth and holineſſe, and their Covenant being no better then the Vow of the Jewes, not to eate or drinke, till they have killed <hi>Paul,</hi> their prayers and faſtings for the ſuc<g ref="char:EOLhyphen"/>ceſſe of it, are no other in Gods account, then <hi>Jezebells</hi> faſt, and <hi>Abſolon</hi>'s ſacrifice, the one the diſguiſe of an horrid murder, the other of unnaturall rebellion.</p>
+            <p>They declare the taking of their Covenant is the one<g ref="char:EOLhyphen"/>ly way to their favour, and doe not tell where it's ex<g ref="char:EOLhyphen"/>preſſed or implyed in the word of God, or enjoyned by the Lawes of the Land; and yet the not taking of it, drawes the loſſe of Life, Liberty, Propriety, and Privi<g ref="char:EOLhyphen"/>ledge of Parliament, which the authors perſwade men they fight for, and which they have ſolemnly proteſted to defend; and how can they ſatisfie any man, or them<g ref="char:EOLhyphen"/>ſelves, that they obſerve their oathes, while they deſtroy that which they ſwore to preſerve?</p>
+            <p>And as God put it into their hearts to enter into their Covenant, ſo they tell us he hath diſplayed their ban<g ref="char:EOLhyphen"/>ner. The curſing Aſſyrian told Gods people he was come up in the name of the Lord againſt <hi>Jeruſalem;</hi> and this preſumption of theſe authors of our troubles, truly entitles them to be ſucceſſors of theſe unhappy troub<g ref="char:EOLhyphen"/>lers of Kingdomes and States, who fighting the Devill's quarrell under Gods colours, and ſeducing the credu<g ref="char:EOLhyphen"/>lous multitude into the lewdeſt opinions, and moſt exe<g ref="char:EOLhyphen"/>crable actions under the falſe pretences of divine reve<g ref="char:EOLhyphen"/>lations, have ſubverted the foundations of peace and government in moſt flouriſhing nations.</p>
+            <p>
+               <pb n="7" facs="tcp:154490:5"/>
+               <!-- PDF PAGE 35 -->
+And they hope to affright all men from their conſci<g ref="char:EOLhyphen"/>ence by theſe new edicts, whereby the King hath nei<g ref="char:EOLhyphen"/>ther right nor forfeiture, nor power of pardon; and they that fight for law, judge crimes and inflict puniſhment againſt law, and allow no man life, liberty, or eſtate but at pleaſure.</p>
+            <p>They proclaime ſome favours ſo they be taken in time, but it is upon the condition of future good beha<g ref="char:EOLhyphen"/>viour, that they may poſſibly obtayne mercy for their lives, that have no eſtates to looſe by adventuring their lives and ſoules in defence of this Covenant. But E<g ref="char:EOLhyphen"/>ſtates they are loath to part with, leſt their owne occaſi<g ref="char:EOLhyphen"/>ons, whereunto all their proffers and promiſes are ſub<g ref="char:EOLhyphen"/>ſervient, ſhould need them, or ſuch as have beene moſt eminent in this Rebellion looſe the reward of their Countryes ruine, and therefore theſe are reſerved to diſcretion: neutrality is odious to them, and they may perhaps be inſtruments to puniſh the coldneſſe of ſome that preferre their private eaſe before their loyalty and love to their Country, and a good conſcience; though they want not guilt, who having no Commiſſion from God or his Vicegerent inflict it on them.</p>
+            <p>Papiſts are not to have mercy for any loyalty to their King, their Religion is not the object of the hatred of theſe Legiſlators, but a crime more unpardonable, their abſtinence from Treaſon. Such as have miſguided the Kings counſells are joyned in the ſame liſt with Papiſts, and theſe muſt be taken into conſideration by theſe States or their Committees: ſurely where Rebells judge their Princes Counſellours, fidelity muſt be a crime, and no man that hath had courage enough to preſerve his conſcience, but may come within this pale, and be<g ref="char:EOLhyphen"/>come
+<pb n="8" facs="tcp:154490:6"/>
+               <!-- PDF PAGE 36 -->an example of this arbitrary power; and where onely a falſe finger muſt guide the Counſells they ap<g ref="char:EOLhyphen"/>prove, it's apparent what miſguiders they intend.</p>
+            <p>Hereby you may rightly ſtate the queſtion, touch<g ref="char:EOLhyphen"/>ing the preſent differences; which is not, whether theſe men fight for Religion and Lawes; but whether their taking Armes againſt the command of the King to alter Religion, and Lawes, be Treaſon or not: they never yet afford Petitions of right, but Propoſitions againſt Right; and their preſent edicts againſt Law, Loyalty, and Liberty of the Subject, is a convincing evidence of this truth.</p>
+            <p>If the truth they ſo much deſire be divine, they would not maligne our Church which rejects none, and hath had the concurrent Teſtimonies of the beſt Reformed Churches for the truth of her Doctrines, which were never denied by any but Atheiſts, Papiſts, or Sectaries; Some truths may ſafely be unknowne, wherein the beſt Reformed Churches and Orthodox profeſſors have not beene of one judgement, yet have kept the unity of the ſpirit in the band of peace, and were never the creed of the Church of God in any age, but that the ſword might be taken up by Subjects againſt their King to im<g ref="char:EOLhyphen"/>poſe ſuch opinions, as neceſſary to be beleeved, had ne<g ref="char:EOLhyphen"/>ver leſſe cenſure amongſt ſober Chriſtians, then of Ty<g ref="char:EOLhyphen"/>ranny upon the conſcience, diſturbance of the Church<g ref="char:EOLhyphen"/>es peace, ſcandall to Religion, and Rebellion againſt the Lords Anointed: but it ſeemes that which they call their Religion is a heape raked together our of the in<g ref="char:EOLhyphen"/>conſiſtent dictates of diſagreeing Sectaries, which con<g ref="char:EOLhyphen"/>ſpire in the Churches ruines to eſtabliſh their tumultu<g ref="char:EOLhyphen"/>ary licence, and though their Babell laid in Rebellion
+<pb n="9" facs="tcp:154490:6"/>
+               <!-- PDF PAGE 36 -->againſt God and his Vicegerent, and built in ſuch divi<g ref="char:EOLhyphen"/>ſions of languages, cannot poſſibly preſerve truth and peace, yet theſe men that have thus taken up the ſword, will either finiſh the deſolation of their native Country, or erect this monument of confuſion. Surely Sir, if theſe men regarded the teares of age, or bloud of innocents, the penury, exile and diſtreſſe of men of all eſtates, the decay of the beauty, honour and ſtrength of this nati<g ref="char:EOLhyphen"/>on, the fainting of all arts, learning and induſtry, the loſſe of trade, increaſe of Widowes, Orphans and mai<g ref="char:EOLhyphen"/>med poore, if they had any feeling of the miſeries of ſickeneſſe, ſword and famine, if any tenderneſſe of their brethren or Country, if any reſpect of honour to their King, reverence to the Church of God, or glory of his name, they would not preferre uncertaine opinions of unneceſſary truths before the certaine ruine of Church and State.</p>
+            <p>The worſt dayes we formerly ſaw were a golden age to the preſent, and we may rather deſire then expect a reſtitution of our former happineſſe, which theſe men are not affected to, that will not admit it without the ſatisfaction of their owne inordinate paſſions; and as if they were afraid of their owne affections, they fetter their conſciences to ſhut out all conſiderations that may incline them to peace.</p>
+            <p>I hope if you were not you are ſatisfied, that the ſame men that cauſed the warre are enemies to peace, and that the Authors of this Declaration are the Authors and Maintainers of our troubles; for if they meant to have conditions, which they give as Conquerors, ac<g ref="char:EOLhyphen"/>cepted, they would at leaſt ſpare the conſcience, though they devoured the State: I commit it to your judgment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
